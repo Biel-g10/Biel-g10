@@ -12,20 +12,28 @@ Desenvolvedor Front-End Júnior | React • JavaScript • APIs | Em evolução 
 - <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git-logo"/>
 <br>
 
-Atualmente evoluindo para Fullstack com Node.js e SQL.
+## 📚 Atualmente estudando
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Backend JavaScript](https://img.shields.io/badge/Backend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
 <br>
 
 ## Projetos em Destaques:
 
 🍔 [Burger App](https://github.com/Biel-g10/Projeto-Burgues)
-Sistema de delivery com carrinho inteligente e filtros
+Sistema de delivery com carrinho inteligente, filtros e lógica de negócio.
 
 💱 [Currency Converter](https://github.com/Biel-g10/Projeto-Convert-Money)
-Conversão dinâmica em tempo real
+Conversão dinâmica em tempo real.
 
 🎮 [Jokenpô](https://github.com/Biel-g10/Projeto-Joken-Po)
-Lógica interativa com manipulação de estado
+Lógica interativa com manipulação de estado.
 <br>
 
 [![Anurag's Gabriel stats](https://github-readme-stats.vercel.app/api?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
