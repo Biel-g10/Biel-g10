@@ -25,8 +25,8 @@ Desenvolvedor Front-End Júnior | React • JavaScript • APIs | Em evolução 
 <br>
 
 ## 👨‍💻 Sobre mim
-Desenvolvedor focado em construir interfaces modernas, lógica de negócio
-e evoluir para soluções fullstack escaláveis.
+Desenvolvedor focado em interfaces modernas, lógica de negócio,
+integração com APIs e evolução para soluções fullstack escaláveis.
 <br>
 <br>
 
@@ -50,6 +50,8 @@ com evolução para Fullstack.
 [![Anurag's Gabriel stats](https://github-readme-stats.vercel.app/api?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biel-g10&show_icons=true&locale=pt-br)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Biel-g10)
 
