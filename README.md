@@ -20,7 +20,7 @@ Desenvolvedor Front-End Júnior | React • JavaScript • APIs | Em evolução 
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Backend JavaScript](https://img.shields.io/badge/Backend)
+![Backend JavaScript](https://img.shields.io/badge/Backend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
 <br>
 
