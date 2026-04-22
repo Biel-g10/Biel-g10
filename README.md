@@ -1,4 +1,4 @@
-## 👨‍💻 Gabriel Elias Araújo
+## 👨‍💻 Gabriel Elias Araújo Front-End Developer | React | Fullstack in Progress
 
 Desenvolvedor Front-End Júnior | React • JavaScript • APIs | Em evolução para Fullstack
 <br>
