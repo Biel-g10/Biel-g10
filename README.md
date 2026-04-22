@@ -21,10 +21,10 @@ Atualmente evoluindo para Fullstack com Node.js e SQL.
 🍔 [Burger App](https://github.com/Biel-g10/Projeto-Burgues)
 Sistema de delivery com carrinho inteligente e filtros
 
-💱 Currency Converter
+💱 [Currency Converter](https://github.com/Biel-g10/Projeto-Convert-Money)
 Conversão dinâmica em tempo real
 
-🎮 Jokenpô
+🎮 [Jokenpô](https://github.com/Biel-g10/Projeto-Joken-Po)
 Lógica interativa com manipulação de estado
 <br>
 
