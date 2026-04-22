@@ -46,6 +46,7 @@ Lógica interativa com manipulação de estado.(DOM | JavaScript)
 Buscando oportunidade como Desenvolvedor Front-End Júnior
 com evolução para Fullstack.
 <br>
+<br>
 
 ## 📫 Conecte-se comigo:
 
