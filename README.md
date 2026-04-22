@@ -22,6 +22,7 @@ Desenvolvedor Front-End Júnior | React • JavaScript • APIs | Em evolução 
 
 ![Backend JavaScript](https://img.shields.io/badge/Backend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
+<br>
 
 ## 👨‍💻 Sobre mim
 Desenvolvedor focado em construir interfaces modernas, lógica de negócio
