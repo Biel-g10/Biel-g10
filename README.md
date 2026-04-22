@@ -17,7 +17,7 @@ Atualmente evoluindo para Fullstack com Node.js e SQL.
 <br>
 <br>
 
-## Featured Projects
+## Projetos em Destaques:
 
 🍔 Burger App
 Sistema de delivery com carrinho inteligente e filtros
