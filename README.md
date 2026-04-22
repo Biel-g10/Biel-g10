@@ -17,6 +17,18 @@ Atualmente evoluindo para Fullstack com Node.js e SQL.
 <br>
 <br>
 
+## Featured Projects
+
+🍔 Burger App
+Sistema de delivery com carrinho inteligente e filtros
+
+💱 Currency Converter
+Conversão dinâmica em tempo real
+
+🎮 Jokenpô
+Lógica interativa com manipulação de estado
+<br>
+
 [![Anurag's Gabriel stats](https://github-readme-stats.vercel.app/api?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
