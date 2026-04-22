@@ -46,7 +46,7 @@ Lógica interativa com manipulação de estado.
 
 ![](https://komarev.com/ghpvc/?username=your-github-Biel-g10)
 
-### conectar-se comigo:
+## 📫 Conecte-se comigo:
 
 
 <a href="https://www.instagram.com/_biel_g10/">
