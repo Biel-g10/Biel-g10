@@ -1,6 +1,6 @@
 ## 👨‍💻 Gabriel Elias Araújo
 
-Desenvolvedor Front-End em evolução para Fullstack.
+Desenvolvedor Front-End Júnior | React • JavaScript • APIs | Em evolução para Fullstack
 
 <br>
 <br>
@@ -18,7 +18,7 @@ Atualmente evoluindo para Fullstack com Node.js e SQL.
 
 ## Projetos em Destaques:
 
-🍔 Burger App
+🍔 [Burger App](https://github.com/Biel-g10/Projeto-Burgues)
 Sistema de delivery com carrinho inteligente e filtros
 
 💱 Currency Converter
