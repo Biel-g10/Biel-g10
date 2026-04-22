@@ -47,14 +47,6 @@ Buscando oportunidade como Desenvolvedor Front-End Júnior
 com evolução para Fullstack.
 <br>
 
-[![Anurag's Gabriel stats](https://github-readme-stats.vercel.app/api?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biel-g10&show_icons=true&locale=pt-br)
-
-![](https://komarev.com/ghpvc/?username=your-github-Biel-g10)
-
 ## 📫 Conecte-se comigo:
 
 
@@ -64,3 +56,12 @@ com evolução para Fullstack.
 <a href="https://www.linkedin.com/in/gabrielaraujorei/">
 <img alt="linkedIn-logo" width="33px" src="https://content.linkedin.com/content/dam/me/news/en-us/blog/authors/l/li-logo.png.original.png">
 </a>
+<br>
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biel-g10&show_icons=true&locale=pt-br)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=your-github-Biel-g10)
+
