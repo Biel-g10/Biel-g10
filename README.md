@@ -39,4 +39,4 @@ Lógica interativa com manipulação de estado
 
 
 <a href="https://www.instagram.com/_biel_g10/">
-<img align="left" alt="image-instagram-logo" width="33px" src="https://s1.pngtank.com/thumbnails/63bfe8eda971c.png">
+<img align="left" alt="image-instagram-logo" width="33px" src="https://static.vecteezy.com/system/resources/previews/014/414/683/original/instagram-black-logo-on-transparent-background-free-vector.jpg">
