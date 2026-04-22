@@ -40,3 +40,7 @@ Lógica interativa com manipulação de estado
 
 <a href="https://www.instagram.com/_biel_g10/">
 <img align="left" alt="image-instagram-logo" width="33px" src="https://static.vecteezy.com/system/resources/previews/014/414/683/original/instagram-black-logo-on-transparent-background-free-vector.jpg">
+<a/>
+<a href="https://www.linkedin.com/in/gabrielaraujorei/">
+<img alt="linkedIn-logo" src="https://content.linkedin.com/content/dam/me/news/en-us/blog/authors/l/li-logo.png.original.png">
+</a>
