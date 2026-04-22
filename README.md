@@ -33,13 +33,18 @@ e evoluir para soluções fullstack escaláveis.
 ## Projetos em Destaques:
 
 🍔 [Burger App](https://github.com/Biel-g10/Projeto-Burgues)
-Sistema de delivery com carrinho inteligente, filtros e lógica de negócio.
+Sistema de delivery com carrinho inteligente, filtros e lógica de negócio. (React | JavaScript | CSS)
 
 💱 [Currency Converter](https://github.com/Biel-g10/Projeto-Convert-Money)
-Conversão dinâmica em tempo real.
+Conversão dinâmica em tempo real.(JavaScript | API)
 
 🎮 [Jokenpô](https://github.com/Biel-g10/Projeto-Joken-Po)
-Lógica interativa com manipulação de estado.
+Lógica interativa com manipulação de estado.(DOM | JavaScript)
+<br>
+
+## 🎯 Objetivo
+Buscando oportunidade como Desenvolvedor Front-End Júnior
+com evolução para Fullstack.
 <br>
 
 [![Anurag's Gabriel stats](https://github-readme-stats.vercel.app/api?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
