@@ -1,7 +1,6 @@
-## Hi there :computer: :books:
+## 👨‍💻 Gabriel Elias Araújo
 
-Eu sou o Gabriel Elias Araújo, sou Desenvolvedor Front-End com foco em HTML, CSS, JavaScript e React,
-construindo aplicações com lógica de negócio, consumo de APIs e interfaces dinâmicas, como:
+Desenvolvedor Front-End em evolução para Fullstack.
 
 <br>
 <br>
