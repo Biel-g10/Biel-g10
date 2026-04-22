@@ -15,6 +15,7 @@ construindo aplicações com lógica de negócio, consumo de APIs e interfaces d
 
 Atualmente evoluindo para Fullstack com Node.js e SQL.
 <br>
+<br>
 
 [![Anurag's Gabriel stats](https://github-readme-stats.vercel.app/api?username=Biel-g10)](https://github.com/anuraghazra/github-readme-stats)
 
